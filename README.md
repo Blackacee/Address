@@ -1,2 +1,10 @@
-# Address
-HTML address code
+<!DOCTYPE html>
+<html>
+<head>
+<title>Address Example</title>
+</head>
+<body>
+<address>388A, Road No 22, Jubilee Hills -
+Hyderabad</address>
+</body>
+</html>
